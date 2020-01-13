@@ -1,0 +1,12 @@
+*.pyc
+__pycache__
+*.pyo
+*.log
+.DS_Store
+*.json
+settings.json
+.pytest_cache
+.env
+.mypy_cache
+untitled.sublime-workspace
+untitled.sublime-project
